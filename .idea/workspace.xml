@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0ea4f87-4a54-45ab-894a-d4168e67677e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e0bbe96d-4b93-4bd3-a7b7-6ab1be9d63bf" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EsgmNXqjAB0tiVn0JhJDNOa9xm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day06_PrimitiveTypeCastings" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day03_EscapeSequences" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="trim" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WarmUpTask">
+    <configuration name="AmazonInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.scrumTask.AmazonInc" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_Inheritance.scrumTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.Test" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmUpTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.WarmUpTask" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02_HelloWorld.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_HelloWorld.Test" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_HelloWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WarmUpTask" />
+        <item itemvalue="Application.day02_HelloWorld.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AmazonInc" />
+        <item itemvalue="Application.PhoneShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0ea4f87-4a54-45ab-894a-d4168e67677e" name="Changes" comment="" />
+      <created>1663389868861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663389868861</updated>
+      <workItem from="1663389870226" duration="23000" />
+      <workItem from="1663389918566" duration="6603000" />
+      <workItem from="1663413134057" duration="1357000" />
+      <workItem from="1663588565720" duration="12140000" />
+      <workItem from="1663660742097" duration="3240000" />
+      <workItem from="1664090077424" duration="10299000" />
+      <workItem from="1664125147951" duration="3273000" />
+      <workItem from="1664166873721" duration="9453000" />
+      <workItem from="1664199482426" duration="3583000" />
+      <workItem from="1664255190908" duration="2501000" />
+      <workItem from="1664296043443" duration="5120000" />
+      <workItem from="1664343759584" duration="1656000" />
+      <workItem from="1664346018231" duration="4743000" />
+      <workItem from="1664385471207" duration="4841000" />
+      <workItem from="1664431139428" duration="4438000" />
+      <workItem from="1664454703801" duration="364000" />
+      <workItem from="1664459302400" duration="9882000" />
+      <workItem from="1664518464254" duration="2780000" />
+      <workItem from="1664535871381" duration="26548000" />
+      <workItem from="1664640088838" duration="631000" />
+      <workItem from="1664728414931" duration="1806000" />
+      <workItem from="1664775253658" duration="6176000" />
+      <workItem from="1664858492903" duration="17831000" />
+      <workItem from="1664939585810" duration="6551000" />
+      <workItem from="1664948574006" duration="9093000" />
+      <workItem from="1664974313688" duration="307000" />
+      <workItem from="1664996134420" duration="684000" />
+      <workItem from="1665052828680" duration="6728000" />
+      <workItem from="1665076322154" duration="3982000" />
+      <workItem from="1665118924430" duration="4743000" />
+      <workItem from="1665140144392" duration="3400000" />
+      <workItem from="1665155776332" duration="7379000" />
+      <workItem from="1665164490573" duration="1688000" />
+      <workItem from="1665204184518" duration="1299000" />
+      <workItem from="1665224389302" duration="7433000" />
+      <workItem from="1665240976003" duration="5373000" />
+      <workItem from="1665250071938" duration="2458000" />
+      <workItem from="1665252976728" duration="1192000" />
+      <workItem from="1665254236066" duration="39000" />
+      <workItem from="1665254395212" duration="486000" />
+      <workItem from="1665374584733" duration="10214000" />
+      <workItem from="1665416196064" duration="4457000" />
+      <workItem from="1665464633094" duration="8102000" />
+      <workItem from="1665489752172" duration="15830000" />
+      <workItem from="1665573658650" duration="3581000" />
+      <workItem from="1665580643945" duration="264000" />
+      <workItem from="1665584688526" duration="598000" />
+      <workItem from="1665591840032" duration="11224000" />
+      <workItem from="1665638834917" duration="18918000" />
+      <workItem from="1665724168343" duration="16812000" />
+      <workItem from="1665821530844" duration="7824000" />
+      <workItem from="1665834511123" duration="9426000" />
+      <workItem from="1666351828743" duration="5736000" />
+      <workItem from="1666372462924" duration="8194000" />
+      <workItem from="1666425537399" duration="17463000" />
+      <workItem from="1666512936317" duration="701000" />
+      <workItem from="1666514487979" duration="19000" />
+      <workItem from="1666713963632" duration="163000" />
+      <workItem from="1666811718940" duration="428000" />
+      <workItem from="1666937926449" duration="1316000" />
+      <workItem from="1666965655351" duration="15776000" />
+      <workItem from="1667026933386" duration="474000" />
+      <workItem from="1667037610447" duration="5870000" />
+      <workItem from="1667112376287" duration="8692000" />
+      <workItem from="1667130611716" duration="13044000" />
+      <workItem from="1667212318570" duration="2439000" />
+      <workItem from="1667292746565" duration="2103000" />
+      <workItem from="1667301705473" duration="11652000" />
+      <workItem from="1667331711001" duration="624000" />
+      <workItem from="1667370754156" duration="19238000" />
+      <workItem from="1667585708492" duration="2515000" />
+      <workItem from="1667591805049" duration="682000" />
+      <workItem from="1667593624357" duration="21000" />
+      <workItem from="1667640734560" duration="39000" />
+      <workItem from="1667641168977" duration="9168000" />
+      <workItem from="1667816597262" duration="285000" />
+      <workItem from="1667838713755" duration="713000" />
+      <workItem from="1667840545521" duration="610000" />
+      <workItem from="1667894769250" duration="8908000" />
+      <workItem from="1667979249616" duration="1327000" />
+      <workItem from="1668002691490" duration="6930000" />
+      <workItem from="1668063065237" duration="21040000" />
+      <workItem from="1668143364122" duration="10273000" />
+      <workItem from="1668412596597" duration="3534000" />
+      <workItem from="1668479849287" duration="6101000" />
+      <workItem from="1669053856649" duration="813000" />
+      <workItem from="1669108408006" duration="18227000" />
+      <workItem from="1669197508550" duration="10673000" />
+      <workItem from="1669261560352" duration="7333000" />
+      <workItem from="1669284613608" duration="12570000" />
+      <workItem from="1669332641182" duration="5549000" />
+      <workItem from="1669356326484" duration="15689000" />
+      <workItem from="1669400789799" duration="642000" />
+      <workItem from="1669448671854" duration="3285000" />
+      <workItem from="1669465252181" duration="20642000" />
+      <workItem from="1669554420059" duration="23138000" />
+      <workItem from="1669648509164" duration="11629000" />
+      <workItem from="1669698916290" duration="7320000" />
+      <workItem from="1669725645838" duration="409000" />
+      <workItem from="1669726078648" duration="185000" />
+      <workItem from="1669726296666" duration="113000" />
+      <workItem from="1669726427155" duration="113000" />
+      <workItem from="1669726555554" duration="8997000" />
+      <workItem from="1669788840484" duration="12886000" />
+      <workItem from="1670001283665" duration="122000" />
+      <workItem from="1670001460772" duration="1495000" />
+      <workItem from="1670088340143" duration="761000" />
+      <workItem from="1670173639074" duration="3769000" />
+      <workItem from="1670231681704" duration="3240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day10_NestedIf/NameOfTheMonth.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day15_ForLoop/replit.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day27_WrapperClasses/RemoveDuplicates.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
